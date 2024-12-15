@@ -1,1 +1,3 @@
-# SQL-Power-BI-Project---Sales-Analytics-of-Grill-Galaxy-Burger-Retail-Chain
+This project explores the application of data analytics in the retail sector through the lens of Grilled Galaxy Burgers, a popular burger chain in Italy. 
+Leveraging sales data, the project demonstrates how data cleaning and exploratory analysis using MySQL, followed by interactive visualizations in Power BI, can uncover actionable insights to enhance business operations and profitability.
+Key analyses include identifying peak sales hours, monitoring sales trends, evaluating top-performing locations and products, and distinguishing sales performance by weekdays versus weekends. The findings provide valuable insights for strategic decision-making, such as optimizing staffing, inventory, and marketing efforts.
